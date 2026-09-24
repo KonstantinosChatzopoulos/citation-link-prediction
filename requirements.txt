@@ -1,5 +1,5 @@
 # Libraries used by the notebooks. Versions are not pinned: the project
-# was run in 2025 in an Anaconda environment whose versions were not recorded.
+# was run in an Anaconda environment whose versions were not recorded.
 numpy
 pandas
 scikit-learn

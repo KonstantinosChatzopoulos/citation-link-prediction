@@ -8,7 +8,7 @@ Predicts whether one scientific paper cites another, using only the text of thei
 
 ## About
 
-- **Context:** Natural Language Processing course, Department of Computer Science & Engineering, University of Ioannina, 2025. Solved as an in-class Kaggle competition.
+- **Context:** Natural Language Processing course, Department of Computer Science & Engineering, University of Ioannina. Solved as an in-class Kaggle competition.
 - **Team:** Team project (2 students)
 - **Status:** Complete as a course project. See [Limitations](#limitations-and-next-steps).
 
