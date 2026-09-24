@@ -1,0 +1,12 @@
+# Libraries used by the notebooks. Versions are not pinned: the project
+# was run in 2025 in an Anaconda environment whose versions were not recorded.
+numpy
+pandas
+scikit-learn
+nltk
+gensim                  # notebooks/02_doc2vec.ipynb
+sentence-transformers   # notebooks/03_sentence_bert.ipynb
+jupyter
+
+# After installing, download the NLTK stopword list once:
+#   python -m nltk.downloader stopwords
